@@ -1,6 +1,6 @@
 # Employee Management System
 
-this is my dsa project that i have made using stack and linked listb.
+this is my dsa project that i have made using stack and linked list.
 
 ## Features
 
