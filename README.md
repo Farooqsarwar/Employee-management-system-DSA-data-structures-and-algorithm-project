@@ -19,15 +19,3 @@ this is my dsa project that i have made using stack and linked list.
 4. **Sort Employees**: Select option `4` to sort employees by their ID.
 5. **Display All Employees**: Select option `5` to display all current employees.
 6. **Display Removed Employees**: Select option `6` to display all removed employees.
-
-## Code Overview
-
-### Structure Definitions
-
-- **Employee**: Structure to store employee details.
-  ```cpp
-  struct Employee {
-      string name;
-      float salary;
-      int id;
-  };
